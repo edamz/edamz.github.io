@@ -1,0 +1,27 @@
+/* Reset styles */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* Basic styles */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+
+a {
+	display: inline-flexbox;
+	padding: 16px 20px;
+	margin: 15px 15px;
+	text-align: center;
+	
+}
+nav {
+	margin-top: auto;
+	background-color: aqua;
+	padding: 60px;
+}
