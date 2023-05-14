@@ -12,17 +12,16 @@ body {
 	line-height: 1.5;
 	color: #333;
 }
-ul{
-	list-style-type:none;
-	background-color: aqua;
-	
-}
-li {
-	display: inline;
-	padding: 1rem 1rem;
-	
+
+a {
+	display: inline-flexbox;
+	padding: 16px 20px;
+	margin: 15px 15px;
+	text-align: center;
 	
 }
 nav {
 	margin-top: auto;
+	background-color: aqua;
+	padding: 60px;
 }
